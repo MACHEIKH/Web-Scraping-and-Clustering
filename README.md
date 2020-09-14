@@ -22,8 +22,8 @@ The average Silhouette scores were all above 0 but were very low. This was an ea
 ## References
 The following are articles that I refered to:
 K-Means: 
-https://medium.com/neuronio/unsupervised-learning-with-k-means-3eaa0666eebf
-https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b
+https://medium.com/neuronio/unsupervised-learning-with-k-means-3eaa0666eebf, 
+https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b, 
 https://medium.com/@MSalnikov/text-clustering-with-k-means-and-tf-idf-f099bcf95183
 
 Web-Scraping
